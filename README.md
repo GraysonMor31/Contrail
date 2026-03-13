@@ -211,7 +211,7 @@ Data is seeded into a local Postgres instance at startup. No runtime API calls t
 
 ## License
 
-MIT License — see [LICENSE](./LICENSE)
+Free Software Foundation General Public License (GPL) v.3 — see [LICENSE](./LICENSE)
 
 ---
 
